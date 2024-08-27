@@ -1,0 +1,7 @@
+.idea
+bin
+obj
+Api/wwwroot
+*.db
+*.db-shm
+*.db-wal
